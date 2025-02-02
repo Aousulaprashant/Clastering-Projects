@@ -32,5 +32,5 @@ To run these projects on your local machine:
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/clustering-projects.git  
+git clone https://github.com/Aousulaprashant/Clastering-Projects.git  
 cd clustering-projects  
